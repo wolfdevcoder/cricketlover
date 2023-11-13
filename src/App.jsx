@@ -2,7 +2,7 @@ import "./App.css";
 
 function App() {
   return (
-    <>
+    <div className="fullScreenIframe">
       <iframe
         title="My Embedded Content"
         src="https://crichdstreaming.xyz/embed2.php?id=starsp3"
@@ -17,7 +17,7 @@ function App() {
         mozallowfullscreen="true"
         allow="fullscreen"
       ></iframe>
-    </>
+    </div>
   );
 }
 
