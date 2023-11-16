@@ -6,7 +6,7 @@ function App() {
     <div className="fullScreenIframe">
       <iframe
         title="My Embedded Content"
-        src="https://crichdstreaming.xyz/embed2.php?id=starsp&q=Star Sports 1"
+        src="https://crichdstreaming.xyz/embed2.php?id=skysp2&q=Sky Sports Cricket"
         width="100%"
         height="540"
         frameBorder="0"
